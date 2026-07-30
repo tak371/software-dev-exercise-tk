@@ -24,13 +24,13 @@ cd ~/Desktop/software-dev-exercise
 Create a virtual environment:
 
 ```sh
-conda create -n my-first-env-fall-2025 python=3.11
+conda create -n software-dev-env python=3.11
 ```
 
 Activate the virtual environment:
 
 ```sh
-conda activate my-first-env-fall-2025
+conda activate software-dev-env
 ```
 
 Install package dependencies:
