@@ -65,7 +65,7 @@ python -m app.rps
 Run stocks dashboard:
 
 ```sh
-python -m app.stocks
+APLHAVANTAGE_API_KEY="IGYFE57M3SORQ8J8" python -m app.stocks
 ```
 
 ## Testing
