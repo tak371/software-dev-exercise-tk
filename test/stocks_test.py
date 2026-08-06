@@ -19,4 +19,4 @@ def test_data_fetching():
     assert "timestamp" in stocks_df.columns
     assert "adjusted_close" in stocks_df.columns
 
-    assert len(stocks_df) >= 100
+    assert len(stocks_df) >= 100 
